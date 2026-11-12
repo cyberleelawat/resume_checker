@@ -34,25 +34,12 @@ The tool supports PDF and DOCX resume formats and generates an estimated resume 
 
 ---
 
-## 📂 Project Structure
-
-```text
-resume_checker/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/cyberleelawat/resume_checker.git
+https://github.com/cyberleelawat/resume_checker.git
 cd resume_checker
 ```
 
@@ -215,20 +202,10 @@ Users are responsible for verifying all recommendations and ensuring that their 
 
 ---
 
-## 📚 References
-
-- https://docs.python.org/3/
-- https://docs.streamlit.io/
-- https://pypdf.readthedocs.io/
-- https://python-docx.readthedocs.io/
-
----
 
 ## 👨‍💻 Project Information
 
-**Project Name:** Cyber Leelawat Resume Intelligence
-
-**Repository:** resume_checker
+**website:** www.cyberleelawat.in
 
 **Developer:** Cyber Leelawat
 
