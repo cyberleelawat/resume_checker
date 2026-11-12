@@ -39,7 +39,7 @@ The tool supports PDF and DOCX resume formats and generates an estimated resume 
 ### 1️⃣ Clone the Repository
 
 ```bash
-https://github.com/cyberleelawat/resume_checker.git
+git clone https://github.com/cyberleelawat/resume_checker.git
 cd resume_checker
 ```
 
